@@ -1,0 +1,6 @@
+framework module HalleyPayFramework {
+  umbrella header "HalleyPayFramework.h"
+
+  export *
+  module * { export * }
+}
