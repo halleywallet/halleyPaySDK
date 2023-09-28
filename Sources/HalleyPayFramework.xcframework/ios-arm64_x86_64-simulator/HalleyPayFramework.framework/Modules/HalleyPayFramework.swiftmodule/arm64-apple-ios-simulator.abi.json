@@ -404,15 +404,8 @@
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
-      "kind": "StringLiteral",
-      "offset": 884,
-      "length": 39,
-      "value": "\"Please provide an valid phone number.\""
-    },
-    {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1344,
+      "offset": 1333,
       "length": 4,
       "value": "true"
     }
