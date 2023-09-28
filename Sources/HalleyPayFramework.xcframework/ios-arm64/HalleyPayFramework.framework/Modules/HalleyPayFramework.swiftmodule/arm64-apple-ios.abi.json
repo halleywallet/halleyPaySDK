@@ -76,21 +76,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "Swift.Error?",
+                "printedName": "HalleyPayFramework.HError?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Error",
-                    "printedName": "Swift.Error",
-                    "usr": "s:s5ErrorP"
+                    "name": "HError",
+                    "printedName": "HalleyPayFramework.HError",
+                    "usr": "s:18HalleyPayFramework6HErrorO"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyys5Error_pSgF",
-            "mangledName": "$s18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyys5Error_pSgF",
+            "usr": "s:18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyyAA6HErrorOSgF",
+            "mangledName": "$s18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyyAA6HErrorOSgF",
             "moduleName": "HalleyPayFramework",
             "genericSig": "<τ_0_0 where τ_0_0 : HalleyPayFramework.HalleyPayDelegate>",
             "sugared_genericSig": "<Self where Self : HalleyPayFramework.HalleyPayDelegate>",
@@ -177,6 +177,230 @@
         "declAttributes": [
           "AccessControl"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HError",
+        "printedName": "HError",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "unknownError",
+            "printedName": "unknownError",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(HalleyPayFramework.HError.Type) -> HalleyPayFramework.HError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HError",
+                    "printedName": "HalleyPayFramework.HError",
+                    "usr": "s:18HalleyPayFramework6HErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "HalleyPayFramework.HError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HError",
+                        "printedName": "HalleyPayFramework.HError",
+                        "usr": "s:18HalleyPayFramework6HErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18HalleyPayFramework6HErrorO12unknownErroryA2CmF",
+            "mangledName": "$s18HalleyPayFramework6HErrorO12unknownErroryA2CmF",
+            "moduleName": "HalleyPayFramework"
+          },
+          {
+            "kind": "Var",
+            "name": "invalidPhoneNumber",
+            "printedName": "invalidPhoneNumber",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(HalleyPayFramework.HError.Type) -> HalleyPayFramework.HError",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "HError",
+                    "printedName": "HalleyPayFramework.HError",
+                    "usr": "s:18HalleyPayFramework6HErrorO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "HalleyPayFramework.HError.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "HError",
+                        "printedName": "HalleyPayFramework.HError",
+                        "usr": "s:18HalleyPayFramework6HErrorO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:18HalleyPayFramework6HErrorO18invalidPhoneNumberyA2CmF",
+            "mangledName": "$s18HalleyPayFramework6HErrorO18invalidPhoneNumberyA2CmF",
+            "moduleName": "HalleyPayFramework"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HError",
+                "printedName": "HalleyPayFramework.HError",
+                "usr": "s:18HalleyPayFramework6HErrorO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "HError",
+                "printedName": "HalleyPayFramework.HError",
+                "usr": "s:18HalleyPayFramework6HErrorO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18HalleyPayFramework6HErrorO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s18HalleyPayFramework6HErrorO2eeoiySbAC_ACtFZ",
+            "moduleName": "HalleyPayFramework",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:18HalleyPayFramework6HErrorO9hashValueSivp",
+            "mangledName": "$s18HalleyPayFramework6HErrorO9hashValueSivp",
+            "moduleName": "HalleyPayFramework",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:18HalleyPayFramework6HErrorO9hashValueSivg",
+                "mangledName": "$s18HalleyPayFramework6HErrorO9hashValueSivg",
+                "moduleName": "HalleyPayFramework",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18HalleyPayFramework6HErrorO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s18HalleyPayFramework6HErrorO4hash4intoys6HasherVz_tF",
+            "moduleName": "HalleyPayFramework",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:18HalleyPayFramework6HErrorO",
+        "mangledName": "$s18HalleyPayFramework6HErrorO",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Error",
+            "printedName": "Error",
+            "usr": "s:s5ErrorP",
+            "mangledName": "$ss5ErrorP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
@@ -184,8 +408,29 @@
   "ConstValues": [
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 664,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 689,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 803,
+      "length": 39,
+      "value": "\"Please provide an valid phone number.\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 898,
+      "offset": 1263,
       "length": 4,
       "value": "true"
     }

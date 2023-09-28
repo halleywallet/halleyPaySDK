@@ -11,9 +11,20 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 public protocol HalleyPayDelegate : AnyObject {
-  func halleyPOSCommunicationHasBeenFinished(_ error: (any Swift.Error)?)
+  func halleyPOSCommunicationHasBeenFinished(_ error: HalleyPayFramework.HError?)
 }
 public struct HalleyPay {
   public static func configure(userPhone: Swift.String)
   public static func start(delegate: UIKit.UIViewController)
 }
+public enum HError : Swift.Error {
+  case unknownError
+  case invalidPhoneNumber
+  public static func == (a: HalleyPayFramework.HError, b: HalleyPayFramework.HError) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+extension HalleyPayFramework.HError : Swift.Equatable {}
+extension HalleyPayFramework.HError : Swift.Hashable {}
