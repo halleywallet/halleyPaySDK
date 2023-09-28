@@ -1,6 +1,11 @@
 framework module HalleyPayFramework {
   umbrella header "HalleyPayFramework.h"
-
   export *
+
   module * { export * }
+}
+
+module HalleyPayFramework.Swift {
+  header "HalleyPayFramework-Swift.h"
+  requires objc
 }

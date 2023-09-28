@@ -1,0 +1,193 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreBluetooth",
+        "printedName": "CoreBluetooth",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "HalleyPayFramework"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HalleyPayDelegate",
+        "printedName": "HalleyPayDelegate",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "halleyPOSCommunicationHasBeenFinished",
+            "printedName": "halleyPOSCommunicationHasBeenFinished(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Error?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Error",
+                    "printedName": "Swift.Error",
+                    "usr": "s:s5ErrorP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyys5Error_pSgF",
+            "mangledName": "$s18HalleyPayFramework0aB8DelegateP37halleyPOSCommunicationHasBeenFinishedyys5Error_pSgF",
+            "moduleName": "HalleyPayFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : HalleyPayFramework.HalleyPayDelegate>",
+            "sugared_genericSig": "<Self where Self : HalleyPayFramework.HalleyPayDelegate>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:18HalleyPayFramework0aB8DelegateP",
+        "mangledName": "$s18HalleyPayFramework0aB8DelegateP",
+        "moduleName": "HalleyPayFramework",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "HalleyPay",
+        "printedName": "HalleyPay",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "configure",
+            "printedName": "configure(userPhone:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18HalleyPayFramework0aB0V9configure9userPhoneySS_tFZ",
+            "mangledName": "$s18HalleyPayFramework0aB0V9configure9userPhoneySS_tFZ",
+            "moduleName": "HalleyPayFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start(delegate:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:18HalleyPayFramework0aB0V5start8delegateySo16UIViewControllerC_tFZ",
+            "mangledName": "$s18HalleyPayFramework0aB0V5start8delegateySo16UIViewControllerC_tFZ",
+            "moduleName": "HalleyPayFramework",
+            "static": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:18HalleyPayFramework0aB0V",
+        "mangledName": "$s18HalleyPayFramework0aB0V",
+        "moduleName": "HalleyPayFramework",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "BooleanLiteral",
+      "offset": 898,
+      "length": 4,
+      "value": "true"
+    }
+  ]
+}
