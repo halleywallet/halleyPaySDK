@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZKZ1cxsyqHTejaX5756ga08y1jM=
+		/EAxCmusUhWlhdNhk+RtgCNkJPM=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		ROstnHvHlDyW0MFaTs99eUq5wyg=
+		D6NRUzBNnG8A+1UNj74SSB/UuzY=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ROstnHvHlDyW0MFaTs99eUq5wyg=
+		D6NRUzBNnG8A+1UNj74SSB/UuzY=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mHwdl4WEhBZte/DDpbCiz4GQmu8=
+		gsbibv+Ca5LBFEcMzUkvRm34lt0=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ZKZ1cxsyqHTejaX5756ga08y1jM=
+		/EAxCmusUhWlhdNhk+RtgCNkJPM=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Bes9B+zWxGC0YDpbxz/ANeoVvBk=
+		Pqjs4cqp9ua6Xc63lNriTSE+Zlw=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Bes9B+zWxGC0YDpbxz/ANeoVvBk=
+		Pqjs4cqp9ua6Xc63lNriTSE+Zlw=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rBM9+hvJNvAtynXAfY9CKUZWl1w=
+		Ncp/czSg3nTgz6MqRSHCoRCJR3I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrPrUg0XZg6CQ1J8jSdpmSWdHml62cyNASnVG8k5FLM=
+			E6mL7D4cMoDpM1Urp4MnnDvkZcoNIvGzSm6cHzNeYuk=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RR/TH3AzS/7HTCxOrQSL1Dievtp4WdG+FA3J2gT6Fp0=
+			G/SoOAyZ023SpP7uLdqUtXfYM4+IJ44J4eMq2BQpeFE=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RR/TH3AzS/7HTCxOrQSL1Dievtp4WdG+FA3J2gT6Fp0=
+			G/SoOAyZ023SpP7uLdqUtXfYM4+IJ44J4eMq2BQpeFE=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IGs30qFRjds6Pq1G725bsFxWna9x2VMVLUkQHQ+PeB8=
+			2sWEvGkfFitHgm96UWucUnVfgWJy6QlVPxS4K+9p+kE=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrPrUg0XZg6CQ1J8jSdpmSWdHml62cyNASnVG8k5FLM=
+			E6mL7D4cMoDpM1Urp4MnnDvkZcoNIvGzSm6cHzNeYuk=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nP6Gv5pQ9FPl2rl/aBUvtf5k1W5IOT5synf+cGK9xro=
+			ex0zM/aPNlmw0MeW3HqoOedS8UAT+ZtikgnzoSPu8o8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nP6Gv5pQ9FPl2rl/aBUvtf5k1W5IOT5synf+cGK9xro=
+			ex0zM/aPNlmw0MeW3HqoOedS8UAT+ZtikgnzoSPu8o8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FrJJ2u/oZrXuiaBgSK3UU2EG7k08/uhpMdmS3+T0kuM=
+			JZ5oEH8rvhjiIuOOyFRuHwDzhG17fYLjP1GN2YheWuc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

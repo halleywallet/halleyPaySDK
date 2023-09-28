@@ -24,4 +24,5 @@ public struct HErrors : Foundation.LocalizedError {
   public var errorCode: Swift.Int? {
     get
   }
+  public init(_ description: Swift.String, errorCode: Swift.Int)
 }
