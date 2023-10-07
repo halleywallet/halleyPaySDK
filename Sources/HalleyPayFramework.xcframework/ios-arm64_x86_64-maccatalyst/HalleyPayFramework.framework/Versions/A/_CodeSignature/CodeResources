@@ -4,33 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Resources/Assets.car</key>
+		<data>
+		lnfAz9HnRur2Xk9kZ9kK30PKOYw=
+		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		BJjXeCx33LUqDNi6iP4ZpELOzLg=
+		1eiHivofYV6vbspQEFflzyINLxA=
 		</data>
-		<key>Resources/resources.bundle/Assets/halleyPulseBG.svg</key>
+		<key>Resources/POSConnectionViewController.nib</key>
 		<data>
-		oNJHXokzgjGBpbc1PiUVDcheYPo=
-		</data>
-		<key>Resources/resources.bundle/Assets/halleyWalletCard.svg</key>
-		<data>
-		qcMbpJXu5xwDukS/2yy8UNvsXBM=
-		</data>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-Bold.ttf</key>
-		<data>
-		cOlqlf8LEsLQ1gsyUz2bCIbOf2s=
-		</data>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-Regular.ttf</key>
-		<data>
-		B7XikATZKBxNbPItcPUohmU4Lss=
-		</data>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-SemiBold.ttf</key>
-		<data>
-		GszVQrFTeIbE0ciYBTCaHBkzxAc=
-		</data>
-		<key>Resources/resources.bundle/POSConnectionViewController.xib</key>
-		<data>
-		4cwE5HQ0p0HpclXWAh5vC7FBM4M=
+		eOLGsX76PaQE+91ePBdhc6qqPK4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -39,7 +23,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y8sxIEwfmWkewyb2Eitp7HJGiM3QM1IL7YDDQCu8WyI=
+			/kYDgc/IZSAx0JpuRG1HrfimNt1SOmyRIfy71ywgPFU=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework.h</key>
@@ -53,14 +37,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YdivsRHdaZVOE9qoneLGSLqKUt+2JngSBwnSfqIuP7s=
+			a9eJZ6r6w7WMax4HhkpeO2xEwpziJyj359RHOt/wdTo=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KD7sdgbis8A+xidITsz4cHBWs9+3IubPxO/beR/q198=
+			gB2MiCHLqh6gGeH2FN/1XSARc/aPJe7VRF3lPuC5SAc=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -74,28 +58,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KD7sdgbis8A+xidITsz4cHBWs9+3IubPxO/beR/q198=
+			gB2MiCHLqh6gGeH2FN/1XSARc/aPJe7VRF3lPuC5SAc=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YbATocZ3d/Mb014RdWD2V5krnHfgPb91xHimvI4hTj0=
+			4t03ZSQnJma3l0Bdv3lr16XtPWZqm46BwOpC5IZJNNc=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YdivsRHdaZVOE9qoneLGSLqKUt+2JngSBwnSfqIuP7s=
+			a9eJZ6r6w7WMax4HhkpeO2xEwpziJyj359RHOt/wdTo=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cHFEK/AshlM2FHYu1yItREvlAwHvQ9RFwKJEfJsYC40=
+			VSP3HVos07ToQzlC35rFfq/ZZclH3J0VzNT/uE4R4MY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -109,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cHFEK/AshlM2FHYu1yItREvlAwHvQ9RFwKJEfJsYC40=
+			VSP3HVos07ToQzlC35rFfq/ZZclH3J0VzNT/uE4R4MY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlVDa5bZIE0586+60byRlpvB63XKvXE2ozaVA/KpSiI=
+			vi0YCXq0N9GPDiqtaEUWhkL0gPfmlWmkNww9XcYDhLs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -126,53 +110,25 @@
 			b0fjUxeQ11gjtWU8Vyu01CE38Bq4qPPEcblUPFl2V2I=
 			</data>
 		</dict>
+		<key>Resources/Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SUEdE5zubR4amg4Isv4X6GnrLAxH8f9GkopdllCwOUI=
+			</data>
+		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mwOpzZDeulHuXihkU7g+TVpHspop5J0Q5NZLQWZr5JA=
+			+CULUqxTfEZ5NgTuAINnTVZLec6HqMAhOMTqCVwgM08=
 			</data>
 		</dict>
-		<key>Resources/resources.bundle/Assets/halleyPulseBG.svg</key>
+		<key>Resources/POSConnectionViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bjG4aZj4nsYPzKOa3yty8DCEzKQlgSoxxAc91WfjhOM=
-			</data>
-		</dict>
-		<key>Resources/resources.bundle/Assets/halleyWalletCard.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZR9MwJhg4shNklVWYWKd1xHIrvMaAol/XWKBjKOgnR0=
-			</data>
-		</dict>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-Bold.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			7TSevQA7R95Sjfqe4ZkUBv1cxwuT6jwGQSK1d1FQFR8=
-			</data>
-		</dict>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-Regular.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			XBZJ6HyUjWCW+GK/a2Rvgpr31wsoFTWvAQw0OA5iYr0=
-			</data>
-		</dict>
-		<key>Resources/resources.bundle/Font/YekanBakhFaNum-SemiBold.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HWVeX7vi1PWkRRm5BVx4HP4PM01eZ8Rc63czcsMCNt0=
-			</data>
-		</dict>
-		<key>Resources/resources.bundle/POSConnectionViewController.xib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			MfP8t8aa5pY1AtMOz2NNqR22DK4iPOFcTADn2u+Wnpo=
+			vTdxEZzFYVUYLZIglxuEq2KyYLq7vZGhPd1LbdisTwc=
 			</data>
 		</dict>
 	</dict>

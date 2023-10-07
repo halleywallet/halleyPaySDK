@@ -42,6 +42,10 @@
 	<string>15A240d</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>13.3</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>YekanBakhFaNum-Regular.ttf</string>
+	</array>
 	<key>UIDeviceFamily</key>
 	<array>
 		<integer>2</integer>
