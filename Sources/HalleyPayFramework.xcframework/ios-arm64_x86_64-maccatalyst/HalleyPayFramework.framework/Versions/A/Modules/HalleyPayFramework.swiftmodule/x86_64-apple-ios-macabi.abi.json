@@ -399,6 +399,20 @@
       "value": "\"bundle\""
     },
     {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/Helper\/XibFilesLoad.swift",
+      "kind": "StringLiteral",
+      "offset": 294,
+      "length": 18,
+      "value": "\"found the bundle\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/Helper\/XibFilesLoad.swift",
+      "kind": "StringLiteral",
+      "offset": 434,
+      "length": 27,
+      "value": "\"could not find the bundle\""
+    },
+    {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
       "offset": 627,
@@ -443,14 +457,28 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1303,
+      "offset": 1260,
+      "length": 34,
+      "value": "\"bundle is \""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1293,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1353,
       "length": 29,
       "value": "\"POSConnectionViewController\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1508,
+      "offset": 1558,
       "length": 4,
       "value": "true"
     }
