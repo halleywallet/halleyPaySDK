@@ -726,42 +726,63 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 484,
+      "offset": 308,
+      "length": 25,
+      "value": "\"YekanBakhFaNum-SemiBold\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 369,
+      "length": 21,
+      "value": "\"YekanBakhFaNum-Bold\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 426,
+      "length": 24,
+      "value": "\"YekanBakhFaNum-Regular\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 635,
       "length": 32,
       "value": "\"------------------------------\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 535,
+      "offset": 686,
       "length": 36,
       "value": "\"Font Family Name = [\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 569,
+      "offset": 720,
       "length": 1,
       "value": "\"]\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 657,
+      "offset": 808,
       "length": 25,
       "value": "\"Font Names = [\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 831,
       "length": 1,
       "value": "\"]\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1036,
+      "offset": 1187,
       "length": 19,
       "value": "\"card did tapped.\/\""
     },
