@@ -487,6 +487,143 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "UIFont",
+        "printedName": "UIFont",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "loadMyFonts",
+            "printedName": "loadMyFonts",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So6UIFontC18HalleyPayFrameworkE11loadMyFontsytvpZ",
+            "mangledName": "$sSo6UIFontC18HalleyPayFrameworkE11loadMyFontsytvpZ",
+            "moduleName": "HalleyPayFramework",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So6UIFontC18HalleyPayFrameworkE11loadMyFontsytvgZ",
+                "mangledName": "$sSo6UIFontC18HalleyPayFrameworkE11loadMyFontsytvgZ",
+                "moduleName": "HalleyPayFramework",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIFont",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIFont",
+        "declAttributes": [
+          "Available",
+          "Available",
+          "ObjC",
+          "SynthesizedProtocol",
+          "NonSendable",
+          "Sendable",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "NSImage",
         "printedName": "NSImage",
         "declKind": "Class",
@@ -613,6 +750,48 @@
       "value": "\"YekanBakhFaNum-Regular\""
     },
     {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "StringLiteral",
+      "offset": 836,
+      "length": 5,
+      "value": "\"ttf\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1135,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "StringLiteral",
+      "offset": 1162,
+      "length": 122,
+      "value": "\"Failed to register font - register graphics font failed - this font may have already been registered in the main bundle.\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "StringLiteral",
+      "offset": 1372,
+      "length": 11,
+      "value": "\"Exo-Black\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "StringLiteral",
+      "offset": 1412,
+      "length": 10,
+      "value": "\"Exo-Bold\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIFont+Archive.swift",
+      "kind": "StringLiteral",
+      "offset": 1451,
+      "length": 13,
+      "value": "\"Exo-Regular\""
+    },
+    {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIColor+Assets.swift",
       "kind": "StringLiteral",
       "offset": 226,
@@ -629,42 +808,42 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 461,
+      "offset": 484,
       "length": 32,
       "value": "\"------------------------------\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 512,
+      "offset": 535,
       "length": 36,
       "value": "\"Font Family Name = [\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 546,
+      "offset": 569,
       "length": 1,
       "value": "\"]\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 634,
+      "offset": 657,
       "length": 25,
       "value": "\"Font Names = [\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 657,
+      "offset": 680,
       "length": 1,
       "value": "\"]\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 1013,
+      "offset": 1036,
       "length": 19,
       "value": "\"card did tapped.\/\""
     },

@@ -49,7 +49,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CCoELGUndam9NcmSz6vnCBWnEv63sjMX/84rbumQKUs=
+			npbS/gr37iXH2IRnJ2EinD7XIk4M+ZUohhjBml7wKcY=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework.h</key>
@@ -63,14 +63,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FWmWKP4H8b4En2cLeQyoG9/rz8P2EO9QvxtSFf9vmew=
+			mAxyl/F3BEAi/wCQ2CV4V3Y154DOMaQSA9yXDjTRYzc=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gB2MiCHLqh6gGeH2FN/1XSARc/aPJe7VRF3lPuC5SAc=
+			BKxnrb7kMWUbicV09PtdQbu41BhSUT+47hdl/OBUSOQ=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -84,28 +84,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gB2MiCHLqh6gGeH2FN/1XSARc/aPJe7VRF3lPuC5SAc=
+			BKxnrb7kMWUbicV09PtdQbu41BhSUT+47hdl/OBUSOQ=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IV0TGEr1PkgnV5UFSKqQArdJSwDRDOfqvtnxtB/9jTA=
+			UzaaGcs7cclHYCBlG89oUN9Tv+N8CSqCHaOYcqPODLY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FWmWKP4H8b4En2cLeQyoG9/rz8P2EO9QvxtSFf9vmew=
+			mAxyl/F3BEAi/wCQ2CV4V3Y154DOMaQSA9yXDjTRYzc=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSP3HVos07ToQzlC35rFfq/ZZclH3J0VzNT/uE4R4MY=
+			RufYHPhaWPxR1COEWa+ylbNqrXVJBpf4bO7k5eR8WaM=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -119,14 +119,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VSP3HVos07ToQzlC35rFfq/ZZclH3J0VzNT/uE4R4MY=
+			RufYHPhaWPxR1COEWa+ylbNqrXVJBpf4bO7k5eR8WaM=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			73/F2Dtk4DmedMp8r/I7elabIop/21atu+T7zj/h8p0=
+			R1G37DW2XEOzMv2rByyBRxohrEXv6lFgvinVt/McaTo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

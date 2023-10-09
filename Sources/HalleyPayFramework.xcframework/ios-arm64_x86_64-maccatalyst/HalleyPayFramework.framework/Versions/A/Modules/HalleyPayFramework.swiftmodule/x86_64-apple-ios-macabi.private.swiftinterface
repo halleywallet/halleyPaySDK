@@ -13,6 +13,9 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+extension UIKit.UIFont {
+  public static let loadMyFonts: ()
+}
 public protocol HalleyPayDelegate : AnyObject {
   func halleyPOSCommunicationHasBeenFinished(_ error: HalleyPayFramework.HErrors?)
 }
