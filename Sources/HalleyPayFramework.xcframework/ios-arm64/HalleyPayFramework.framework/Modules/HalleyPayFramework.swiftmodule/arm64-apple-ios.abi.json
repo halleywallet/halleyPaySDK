@@ -548,21 +548,7 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
       "kind": "StringLiteral",
-      "offset": 732,
-      "length": 15,
-      "value": "\"halleyPulseBG\""
-    },
-    {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 788,
-      "length": 18,
-      "value": "\"halleyWalletCard\""
-    },
-    {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1042,
+      "offset": 636,
       "length": 19,
       "value": "\"card did tapped.\/\""
     },
