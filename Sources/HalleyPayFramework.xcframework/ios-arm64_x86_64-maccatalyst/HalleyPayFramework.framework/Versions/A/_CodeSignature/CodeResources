@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nY6kHm0QZj+Y/n1LZJxulDYdFfLW7qiZugJc3Y1tiis=
+			lnlNkkMuwsoALJGA2/5FFFTbxYnZzY0nYq+cYjmT37g=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -79,14 +79,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EpB9dqjK0K82cnowdnrmjcCgaFF8LWtFnl/tG+eAxYU=
+			ockQbxCvJBjXXR/bLffHGXsekB7C9rIOskNGSWMB8CY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nY6kHm0QZj+Y/n1LZJxulDYdFfLW7qiZugJc3Y1tiis=
+			lnlNkkMuwsoALJGA2/5FFFTbxYnZzY0nYq+cYjmT37g=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -114,7 +114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JrkC6nqoXdST8IYTLYRm8yp11D9suC02iMDWDmtOv90=
+			TK2fe+Thw4X3aPOEOzkDVQKCRgIVWx5D8aMsiLtci00=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
