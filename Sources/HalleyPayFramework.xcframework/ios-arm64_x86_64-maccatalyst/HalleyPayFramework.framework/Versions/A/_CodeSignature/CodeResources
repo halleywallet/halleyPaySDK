@@ -6,16 +6,30 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		lnfAz9HnRur2Xk9kZ9kK30PKOYw=
+		JM1gWlCRezmzgCAaH8RuLWoaHig=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
-		1eiHivofYV6vbspQEFflzyINLxA=
+		BJjXeCx33LUqDNi6iP4ZpELOzLg=
 		</data>
-		<key>Resources/POSConnectionViewController.nib</key>
-		<data>
-		eOLGsX76PaQE+91ePBdhc6qqPK4=
-		</data>
+		<key>Resources/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zkCLOFck04Qdmy0LPSjYVIYTi48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fa-IR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lfHPJdXX0oOqoZE5ll8bOtWlphI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -23,7 +37,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/kYDgc/IZSAx0JpuRG1HrfimNt1SOmyRIfy71ywgPFU=
+			CCoELGUndam9NcmSz6vnCBWnEv63sjMX/84rbumQKUs=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework.h</key>
@@ -37,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aDjwA+DmzeoEgL8ekuXUcGnxK0A6vEXQVnBrN0lU+JY=
+			nY6kHm0QZj+Y/n1LZJxulDYdFfLW7qiZugJc3Y1tiis=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -65,14 +79,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4t03ZSQnJma3l0Bdv3lr16XtPWZqm46BwOpC5IZJNNc=
+			EpB9dqjK0K82cnowdnrmjcCgaFF8LWtFnl/tG+eAxYU=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aDjwA+DmzeoEgL8ekuXUcGnxK0A6vEXQVnBrN0lU+JY=
+			nY6kHm0QZj+Y/n1LZJxulDYdFfLW7qiZugJc3Y1tiis=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -100,7 +114,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vi0YCXq0N9GPDiqtaEUWhkL0gPfmlWmkNww9XcYDhLs=
+			JrkC6nqoXdST8IYTLYRm8yp11D9suC02iMDWDmtOv90=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -114,22 +128,33 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SUEdE5zubR4amg4Isv4X6GnrLAxH8f9GkopdllCwOUI=
+			cbeQpFgngpc+6/YiAP/bAHM2xeGqenhhn0qyP88oyXI=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+CULUqxTfEZ5NgTuAINnTVZLec6HqMAhOMTqCVwgM08=
+			mwOpzZDeulHuXihkU7g+TVpHspop5J0Q5NZLQWZr5JA=
 			</data>
 		</dict>
-		<key>Resources/POSConnectionViewController.nib</key>
+		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vTdxEZzFYVUYLZIglxuEq2KyYLq7vZGhPd1LbdisTwc=
+			AbwwZBUKBcacvcGIxDoasBwDnnFpQElKe14LV9udxQo=
 			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/fa-IR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0VgFaEeGML4aBoyrif4OtRdtpJPmyOvUr/h7cJGq0kE=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

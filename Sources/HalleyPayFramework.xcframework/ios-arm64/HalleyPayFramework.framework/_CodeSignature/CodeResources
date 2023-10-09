@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		Ugs+86hS6gPE0ObGMPf5BA4Pg1U=
+		p/+btjU2GKqjKBTrTaV1CNQpjP8=
 		</data>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<data>
-		NIK2lGh2FAMdGkA48M2wjxcX9No=
+		MM9KoW0lSol2SZLdrBJvg40hY7o=
 		</data>
 		<key>Headers/HalleyPayFramework.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Oy57Xwtri3oFZjqdBc+8q3A/pSo=
+		/Ucfjkgtymiq92GSYanr6lGVn2E=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hGrwjUxq1hOUgp7jTNX1YDVK3ic=
+		bApJRkgcquivIl0FWTb05lcSQGE=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,16 +38,30 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		R0OoJbYkiykJu1DptTqV0qgtJMU=
+		cMAQjqR5/Yk2YmpFLfFCI5dAPWE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Ja+1HgNwUcftRPoKdjdAXdKoAzg=
 		</data>
-		<key>POSConnectionViewController.nib</key>
-		<data>
-		zYoA6gf9tKpEduHhBy0n49BNkWs=
-		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			luGsSaszto1mGeGU7vlbIaDwLyg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fa-IR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U3NZsriWuVqjuUaWlEciVTwJpbE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -55,14 +69,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NTmQSs6r4WaYbX9TyPMwfoSywEmNLu5UoIWr+K314W4=
+			gSqRcXviBNwGDYPzXzkk1fIVRK28ynDODVoWCm5vPUM=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gqX9QryjmqVwQKjysDoXIgfAVMcY9/jqsiOu97VzWOc=
+			JSemlbB8szMYhO4apy0f/l+CZp26AG1tT3v+ZKBxa98=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework.h</key>
@@ -76,7 +90,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tksllVwwH2/lyKeTlxU80eAc7/82HRkyX/SRhXmafXc=
+			ppbBvgs/VnshesZa6JbGD13Rf8SqmOhGqOcfY2DBh1g=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -104,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			89kuq3BQkVKO4QvMetoEJ+AnpoT6cop4L+VD9Y0VNI8=
+			WSDzuPga6EUcBS372GYeZlByA5uOuEAubZZcb8VDezo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -114,12 +128,23 @@
 			b0fjUxeQ11gjtWU8Vyu01CE38Bq4qPPEcblUPFl2V2I=
 			</data>
 		</dict>
-		<key>POSConnectionViewController.nib</key>
+		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jx5j2pHt7hqfekYzrVddm4TlAy3OdofOQ598WBFBWME=
+			YgqnW6eYfNYggGB8LZBGJxsDzOX1IljMHoKH7IgTMYI=
 			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fa-IR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jWHjrIXCZrBD9S+NeCe5negFfKis5CtiLCJ4UYNC7E8=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
