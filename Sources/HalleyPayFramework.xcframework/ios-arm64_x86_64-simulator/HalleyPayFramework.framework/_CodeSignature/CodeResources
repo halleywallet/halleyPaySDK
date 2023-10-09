@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		ChLIBgD+RBX57SzQy0NsVD2OG20=
+		y9QguoMNBzis8TQ3ODqrI7jyBg0=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WtArKnRlmr/gy3dmPpkauW+qvFk=
+		z9xCfx/OALt4sOBqvNLGSt5lQtU=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		ChLIBgD+RBX57SzQy0NsVD2OG20=
+		y9QguoMNBzis8TQ3ODqrI7jyBg0=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mpma3uHvztg/UfLlcshvBCLUBxc=
+		H8a/HKpIiDM7kVMEWMYSTG1eAac=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B4YaA2QfUox36LHe7Z/tzZjJPbFkW9GmnsH+2Wkz+DA=
+			HmPfu2Dqf1NTcRsakf8wpo5ZldW0ABMueUqQv4sRW/Y=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -150,14 +150,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YFlLHq/0o8nJ/1taoqwtdrUKlZd2FycElAevyEcDLLc=
+			c319a6P9NFTeyqaF5ePuNgG8hYylTRJCB44hwfHHrB8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B4YaA2QfUox36LHe7Z/tzZjJPbFkW9GmnsH+2Wkz+DA=
+			HmPfu2Dqf1NTcRsakf8wpo5ZldW0ABMueUqQv4sRW/Y=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -185,7 +185,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sj7udrrYCs8m52zrIUW/pDeHhjUGnGgGWkbCiksODdY=
+			rsMh5TDbSWoDq8+hSEvOwlDFIsrdmqNZ6wUxPGcAGDA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
