@@ -12,6 +12,18 @@
 		<data>
 		BJjXeCx33LUqDNi6iP4ZpELOzLg=
 		</data>
+		<key>Resources/YekanBakhFaNum-Bold.ttf</key>
+		<data>
+		cOlqlf8LEsLQ1gsyUz2bCIbOf2s=
+		</data>
+		<key>Resources/YekanBakhFaNum-Regular.ttf</key>
+		<data>
+		B7XikATZKBxNbPItcPUohmU4Lss=
+		</data>
+		<key>Resources/YekanBakhFaNum-SemiBold.ttf</key>
+		<data>
+		GszVQrFTeIbE0ciYBTCaHBkzxAc=
+		</data>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -136,6 +148,27 @@
 			<key>hash2</key>
 			<data>
 			mwOpzZDeulHuXihkU7g+TVpHspop5J0Q5NZLQWZr5JA=
+			</data>
+		</dict>
+		<key>Resources/YekanBakhFaNum-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7TSevQA7R95Sjfqe4ZkUBv1cxwuT6jwGQSK1d1FQFR8=
+			</data>
+		</dict>
+		<key>Resources/YekanBakhFaNum-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			XBZJ6HyUjWCW+GK/a2Rvgpr31wsoFTWvAQw0OA5iYr0=
+			</data>
+		</dict>
+		<key>Resources/YekanBakhFaNum-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HWVeX7vi1PWkRRm5BVx4HP4PM01eZ8Rc63czcsMCNt0=
 			</data>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
