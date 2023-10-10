@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		GM4RkXPfnPRFjA3OZImoCCb36mo=
+		9AdmVlnBoraGI0xx3/WWwK8kQU4=
 		</data>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		zkGa22fJdMvh+xHI+AkNCh5M3kM=
+		Su4h+iBa0rliHiKZFQSl2BXOAlw=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		fa30th6eRYagPukfwc+p66CBA4Q=
+		CvLal7N6W4aYmLn0VZuTOwXZZqU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UMcq26HUnG9hvyc50R+DJezSZg+K13VEc/GL8uU2ZmI=
+			QAQazCDVPerjpuUt7bdV6sBNisolGaI13kazVThE6N8=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
@@ -102,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ACfBaJAvBYEK02lBQx5AlgwKoClFRk5/JPgYFKxdQIc=
+			6CFJSPlMCcPpojTK58KxWMIA66Oj1PR+0BRavXQsjg8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -130,7 +130,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XqwK5d1sYDrcluIK5cCZQFZwjw+Q8t+twEMCZW4OISc=
+			PClcG6ZG7n0aK1emiNu/DUY1I92RTaikME81l1ctwdE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

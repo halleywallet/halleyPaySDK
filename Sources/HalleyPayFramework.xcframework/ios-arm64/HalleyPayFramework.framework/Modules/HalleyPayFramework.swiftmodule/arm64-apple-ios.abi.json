@@ -719,9 +719,9 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/UIColor+Assets.swift",
       "kind": "StringLiteral",
-      "offset": 269,
-      "length": 5,
-      "value": "\"red\""
+      "offset": 273,
+      "length": 9,
+      "value": "\"mainRed\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/Extensions\/String+Localized.swift",
@@ -922,156 +922,198 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2727,
+      "offset": 2702,
+      "length": 3,
+      "value": "204"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2706,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2718,
+      "length": 2,
+      "value": "51"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2721,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2732,
+      "length": 2,
+      "value": "51"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2735,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2747,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2803,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3086,
+      "offset": 3162,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 3505,
+      "offset": 3581,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "StringLiteral",
-      "offset": 3711,
+      "offset": 3787,
       "length": 22,
       "value": "\"keep_your_card_close\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3837,
+      "offset": 3913,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4190,
+      "offset": 4266,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4215,
+      "offset": 4291,
       "length": 3,
       "value": "115"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4346,
+      "offset": 4422,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4438,
+      "offset": 4514,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4531,
+      "offset": 4607,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4637,
+      "offset": 4713,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4639,
+      "offset": 4715,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4785,
+      "offset": 4861,
       "length": 2,
       "value": "55"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4877,
+      "offset": 4953,
       "length": 3,
       "value": "-55"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4981,
+      "offset": 5057,
       "length": 2,
       "value": "81"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4984,
+      "offset": 5060,
       "length": 3,
       "value": "142"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5090,
+      "offset": 5166,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5184,
+      "offset": 5260,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5275,
+      "offset": 5351,
       "length": 4,
       "value": "-100"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5351,
+      "offset": 5427,
       "length": 2,
       "value": "48"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5566,
+      "offset": 5642,
       "length": 4,
       "value": "-100"
-    },
-    {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5721,
-      "length": 3,
-      "value": "108"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
@@ -1083,140 +1125,147 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6082,
+      "offset": 5873,
+      "length": 3,
+      "value": "108"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6158,
       "length": 2,
       "value": "46"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6166,
+      "offset": 6242,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6486,
+      "offset": 6562,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6575,
+      "offset": 6651,
       "length": 2,
       "value": "47"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6704,
+      "offset": 6780,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6880,
+      "offset": 6956,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7015,
+      "offset": 7091,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7091,
+      "offset": 7167,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7140,
+      "offset": 7216,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7298,
+      "offset": 7374,
       "length": 4,
       "value": "-1.0"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7305,
+      "offset": 7381,
       "length": 5,
       "value": "500.0"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7366,
+      "offset": 7442,
       "length": 4,
       "value": "20.6"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7379,
+      "offset": 7455,
       "length": 3,
       "value": "180"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7384,
+      "offset": 7460,
       "length": 3,
       "value": "0.8"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7389,
+      "offset": 7465,
       "length": 5,
       "value": "-0.75"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7396,
+      "offset": 7472,
       "length": 3,
       "value": "1.6"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7461,
+      "offset": 7537,
       "length": 3,
       "value": "1.7"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "FloatLiteral",
-      "offset": 7466,
+      "offset": 7542,
       "length": 3,
       "value": "1.7"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7471,
+      "offset": 7547,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
       "kind": "IntegerLiteral",
-      "offset": 7646,
+      "offset": 7722,
       "length": 3,
       "value": "-40"
     },
@@ -1251,35 +1300,35 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Library\/Developer\/Xcode\/DerivedData\/HalleyPayFramework-ebqgnxqmyeyrhxbdtxvgtglohyxe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/HalleyPayFramework\/IntermediateBuildFilesPath\/HalleyPayFramework.build\/Release-iphoneos\/HalleyPayFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 744,
-      "length": 5,
-      "value": "\"red\""
+      "offset": 752,
+      "length": 9,
+      "value": "\"mainRed\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Library\/Developer\/Xcode\/DerivedData\/HalleyPayFramework-ebqgnxqmyeyrhxbdtxvgtglohyxe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/HalleyPayFramework\/IntermediateBuildFilesPath\/HalleyPayFramework.build\/Release-iphoneos\/HalleyPayFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 980,
+      "offset": 992,
       "length": 10,
       "value": "\"greenTik\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Library\/Developer\/Xcode\/DerivedData\/HalleyPayFramework-ebqgnxqmyeyrhxbdtxvgtglohyxe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/HalleyPayFramework\/IntermediateBuildFilesPath\/HalleyPayFramework.build\/Release-iphoneos\/HalleyPayFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1126,
+      "offset": 1138,
       "length": 15,
       "value": "\"halleyPulseBG\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Library\/Developer\/Xcode\/DerivedData\/HalleyPayFramework-ebqgnxqmyeyrhxbdtxvgtglohyxe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/HalleyPayFramework\/IntermediateBuildFilesPath\/HalleyPayFramework.build\/Release-iphoneos\/HalleyPayFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1283,
+      "offset": 1295,
       "length": 18,
       "value": "\"halleyWalletCard\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Library\/Developer\/Xcode\/DerivedData\/HalleyPayFramework-ebqgnxqmyeyrhxbdtxvgtglohyxe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/HalleyPayFramework\/IntermediateBuildFilesPath\/HalleyPayFramework.build\/Release-iphoneos\/HalleyPayFramework.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1427,
+      "offset": 1439,
       "length": 10,
       "value": "\"redPhone\""
     }
