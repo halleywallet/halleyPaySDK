@@ -157,12 +157,18 @@
           {
             "kind": "Function",
             "name": "configure",
-            "printedName": "configure(userPhone:complition:)",
+            "printedName": "configure(userPhone:appKey:complition:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               },
               {
                 "kind": "TypeNominal",
@@ -190,8 +196,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:18HalleyPayFramework0aB0V9configure9userPhone10complitionySS_ySSctFZ",
-            "mangledName": "$s18HalleyPayFramework0aB0V9configure9userPhone10complitionySS_ySSctFZ",
+            "usr": "s:18HalleyPayFramework0aB0V9configure9userPhone6appKey10complitionySS_SSySSctFZ",
+            "mangledName": "$s18HalleyPayFramework0aB0V9configure9userPhone6appKey10complitionySS_SSySSctFZ",
             "moduleName": "HalleyPayFramework",
             "static": true,
             "declAttributes": [
@@ -203,7 +209,7 @@
           {
             "kind": "Function",
             "name": "start",
-            "printedName": "start(delegate:)",
+            "printedName": "start(delegate:secretToken:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -215,11 +221,17 @@
                 "name": "UIViewController",
                 "printedName": "UIKit.UIViewController",
                 "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:18HalleyPayFramework0aB0V5start8delegateySo16UIViewControllerC_tFZ",
-            "mangledName": "$s18HalleyPayFramework0aB0V5start8delegateySo16UIViewControllerC_tFZ",
+            "usr": "s:18HalleyPayFramework0aB0V5start8delegate11secretTokenySo16UIViewControllerC_SStFZ",
+            "mangledName": "$s18HalleyPayFramework0aB0V5start8delegate11secretTokenySo16UIViewControllerC_SStFZ",
             "moduleName": "HalleyPayFramework",
             "static": true,
             "declAttributes": [
@@ -882,49 +894,91 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 620,
+      "offset": 712,
       "length": 8,
       "value": "\"sample\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 864,
+      "offset": 985,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 889,
+      "offset": 1010,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 926,
+      "offset": 1047,
       "length": 39,
       "value": "\"Please provide an valid phone number.\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 978,
+      "offset": 1099,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1221,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1258,
+      "length": 39,
+      "value": "\"Please provide an valid secret token.\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1310,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1427,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1464,
+      "length": 85,
+      "value": "\"Please provide an valid appKey. If you don't have one, please call us +985137648583\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1562,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 1512,
+      "offset": 2026,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1635,
+      "offset": 2149,
       "length": 28,
       "value": "\"process has been finished.\""
     },

@@ -20,8 +20,8 @@ public protocol HalleyPayDelegate : AnyObject {
   func halleyPOSCommunicationHasBeenFinished(_ error: HalleyPayFramework.HErrors?)
 }
 public struct HalleyPay {
-  public static func configure(userPhone: Swift.String, complition: @escaping (Swift.String) -> Swift.Void)
-  public static func start(delegate: UIKit.UIViewController)
+  public static func configure(userPhone: Swift.String, appKey: Swift.String, complition: @escaping (Swift.String) -> Swift.Void)
+  public static func start(delegate: UIKit.UIViewController, secretToken: Swift.String)
 }
 public struct HErrors : Foundation.LocalizedError {
   public var errorDescription: Swift.String? {
