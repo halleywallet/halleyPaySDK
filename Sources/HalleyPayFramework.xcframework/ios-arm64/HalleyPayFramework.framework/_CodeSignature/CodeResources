@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		p/+btjU2GKqjKBTrTaV1CNQpjP8=
+		GM4RkXPfnPRFjA3OZImoCCb36mo=
 		</data>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lez0fHP03lmzhWTyItJhmN07gLU=
+		cej9jdTO18KAmoRYC9wifMpWly0=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PEggpJJ/Gp8gpF8hK6z5vhAexoc=
+		YyvN70oChITcly179EhEeoBPA3I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -60,7 +60,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U3NZsriWuVqjuUaWlEciVTwJpbE=
+			QKSLKZlmF0DA0fxMnXDhcArKTsA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -69,7 +69,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			U3NZsriWuVqjuUaWlEciVTwJpbE=
+			QKSLKZlmF0DA0fxMnXDhcArKTsA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gSqRcXviBNwGDYPzXzkk1fIVRK28ynDODVoWCm5vPUM=
+			UMcq26HUnG9hvyc50R+DJezSZg+K13VEc/GL8uU2ZmI=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
@@ -102,7 +102,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H3C54ju3GwMVfZc1qbkxC7KNX+9Hyxo7fsM/QA+lyYk=
+			0vFS7QpgL5GBvPr5WIfzoBpf0HbflcRZlNi+/ZyuHTo=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -130,7 +130,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+ecv454woBhxJ+T2HPiLDShA+R0ZgysOF2pafNt8snE=
+			dyrIWGwcCc1FHDNakqRZa6If2q7Tw1m7xN4a8OdSq7c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -165,7 +165,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWHjrIXCZrBD9S+NeCe5negFfKis5CtiLCJ4UYNC7E8=
+			NY0iJALHBl+Qm+nlUjbWIYT4NpgUF7LegM34qWkS0oE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -174,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWHjrIXCZrBD9S+NeCe5negFfKis5CtiLCJ4UYNC7E8=
+			NY0iJALHBl+Qm+nlUjbWIYT4NpgUF7LegM34qWkS0oE=
 			</data>
 			<key>optional</key>
 			<true/>

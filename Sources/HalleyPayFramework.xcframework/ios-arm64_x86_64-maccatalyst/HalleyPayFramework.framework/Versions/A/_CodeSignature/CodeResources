@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		JM1gWlCRezmzgCAaH8RuLWoaHig=
+		tcmEvtnOsMN0vJM0e3QxCtDNX5U=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
@@ -28,7 +28,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lfHPJdXX0oOqoZE5ll8bOtWlphI=
+			ybZRB/4zC3vaa6Qo2RBAtPhj3yk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -37,7 +37,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lfHPJdXX0oOqoZE5ll8bOtWlphI=
+			ybZRB/4zC3vaa6Qo2RBAtPhj3yk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BJm5qKgG0u/fc/vT7fpkDbWDGK43zP2a3GGDW3Qr/x8=
+			bB8UIwrPtaEZkY3CO7vpJC+MhzPytDQ/LKZIzgCJkBA=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -91,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UzaaGcs7cclHYCBlG89oUN9Tv+N8CSqCHaOYcqPODLY=
+			wUMqXoqfTUjiDhJEfRTHeQP4r4aicFscfX7MGtC29Q4=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BJm5qKgG0u/fc/vT7fpkDbWDGK43zP2a3GGDW3Qr/x8=
+			bB8UIwrPtaEZkY3CO7vpJC+MhzPytDQ/LKZIzgCJkBA=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -126,7 +126,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R1G37DW2XEOzMv2rByyBRxohrEXv6lFgvinVt/McaTo=
+			7j4YvgmIZLd+nBRH4C64ptgQz5gfh7GAWnlaALJi84o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cbeQpFgngpc+6/YiAP/bAHM2xeGqenhhn0qyP88oyXI=
+			RWK+NxokkpkJRdDSjpP52TkqjHlAwyAR+3ymseI6bh8=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
@@ -175,7 +175,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VgFaEeGML4aBoyrif4OtRdtpJPmyOvUr/h7cJGq0kE=
+			ggv0ODFtYQOhUyYZg9uZYJICErv5Gdxdo6Qd1J/1eAw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -184,7 +184,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0VgFaEeGML4aBoyrif4OtRdtpJPmyOvUr/h7cJGq0kE=
+			ggv0ODFtYQOhUyYZg9uZYJICErv5Gdxdo6Qd1J/1eAw=
 			</data>
 			<key>optional</key>
 			<true/>
