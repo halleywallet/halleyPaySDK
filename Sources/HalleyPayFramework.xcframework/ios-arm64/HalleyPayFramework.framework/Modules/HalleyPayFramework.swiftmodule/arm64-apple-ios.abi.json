@@ -812,91 +812,140 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 712,
-      "length": 8,
-      "value": "\"sample\""
+      "offset": 650,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 985,
+      "offset": 687,
+      "length": 104,
+      "value": "\"HalleyPay [Error]: Please provide an valid appKey. If you don't have one, please call us +985137648583\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 804,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 924,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 1010,
+      "offset": 949,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1047,
-      "length": 39,
-      "value": "\"Please provide an valid phone number.\""
+      "offset": 986,
+      "length": 58,
+      "value": "\"HalleyPay [Error]: Please provide an valid phone number.\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 1099,
+      "offset": 1057,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1221,
+      "offset": 1236,
+      "length": 8,
+      "value": "\"sample\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1509,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1534,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1258,
-      "length": 39,
-      "value": "\"Please provide an valid secret token.\""
+      "offset": 1571,
+      "length": 58,
+      "value": "\"HalleyPay [Error]: Please provide an valid phone number.\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 1310,
+      "offset": 1642,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1427,
+      "offset": 1764,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 1464,
-      "length": 85,
-      "value": "\"Please provide an valid appKey. If you don't have one, please call us +985137648583\""
+      "offset": 1801,
+      "length": 58,
+      "value": "\"HalleyPay [Error]: Please provide an valid secret token.\""
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "IntegerLiteral",
-      "offset": 1562,
+      "offset": 1872,
+      "length": 3,
+      "value": "401"
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 1989,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "StringLiteral",
+      "offset": 2026,
+      "length": 104,
+      "value": "\"HalleyPay [Error]: Please provide an valid appKey. If you don't have one, please call us +985137648583\""
+    },
+    {
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2143,
       "length": 3,
       "value": "401"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "BooleanLiteral",
-      "offset": 2026,
+      "offset": 2607,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Logic\/HalleyPay.swift",
       "kind": "StringLiteral",
-      "offset": 2149,
+      "offset": 2730,
       "length": 28,
       "value": "\"process has been finished.\""
     },
