@@ -844,7 +844,7 @@
     {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/ViewModel\/HalleyViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 403,
+      "offset": 408,
       "length": 2,
       "value": "\"\""
     },
@@ -1129,21 +1129,21 @@
       "value": "\"back\""
     },
     {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/AuthService.swift",
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/Repositories\/AuthService.swift",
       "kind": "StringLiteral",
       "offset": 571,
       "length": 24,
       "value": "\"\/api\/v1\/sdk\/get-secret\""
     },
     {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/AuthService.swift",
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/Repositories\/AuthService.swift",
       "kind": "StringLiteral",
       "offset": 757,
       "length": 8,
       "value": "\"mobile\""
     },
     {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/AuthService.swift",
+      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/Network\/Repositories\/AuthService.swift",
       "kind": "StringLiteral",
       "offset": 800,
       "length": 9,
