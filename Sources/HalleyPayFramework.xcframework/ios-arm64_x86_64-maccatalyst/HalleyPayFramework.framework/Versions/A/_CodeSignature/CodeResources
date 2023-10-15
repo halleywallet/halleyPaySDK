@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Assets.car</key>
 		<data>
-		dmLDCOlwOY9TbPlDpj1c4n8HEms=
+		eR6fmhzYsJkvLz6mpXsy8uR1YKY=
 		</data>
 		<key>Resources/Info.plist</key>
 		<data>
@@ -63,14 +63,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uSZz/dDDelnbEGIUVomhkyjaUWI6LP53nYayL716t04=
+			C9AD7+kYvanGyj7P9qI9v7TiKPke3SLt32/L2B8ETUY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8WEg3kThyH9kHNL1YRLdpzYP5nlJaIXuKVP272vZROY=
+			CWiaiFCSsnSftuT9eoAyd26569z2EqwMqgvDAVT2Klk=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -84,28 +84,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8WEg3kThyH9kHNL1YRLdpzYP5nlJaIXuKVP272vZROY=
+			CWiaiFCSsnSftuT9eoAyd26569z2EqwMqgvDAVT2Klk=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bFZAN7WyuIS7nOSlbCIcWJEHFW1dKw0+e8c/kkP8igk=
+			m/vLhf2HIX1CN6B/UrQ+RjcFjdojg94hp3J1dbBF0/M=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uSZz/dDDelnbEGIUVomhkyjaUWI6LP53nYayL716t04=
+			C9AD7+kYvanGyj7P9qI9v7TiKPke3SLt32/L2B8ETUY=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qFwLKcKZ7sf0UxemJ60o3ceNjoZ6+9j89xbn/v7BIds=
+			0bvpraUrgwszTEdi9uiQlYoOGVmnwBsTzgepmfablwQ=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -119,14 +119,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qFwLKcKZ7sf0UxemJ60o3ceNjoZ6+9j89xbn/v7BIds=
+			0bvpraUrgwszTEdi9uiQlYoOGVmnwBsTzgepmfablwQ=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XIE4WRb/vqiZrVB2bbxfTra08AyZtwsCzOI6qU19qbo=
+			dCJp/KlqJQdWfWrhHoyJfScXA9CTYrgkioPOP0Mf1L8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lBOaL/gfXyalt3hpqDdLcJu3aOpR1bGnMvVHIBguP2w=
+			N7zZFqiwKCUfViLISdTxnngvwC5+pXfXsLUe5sxMUNU=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

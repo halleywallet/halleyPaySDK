@@ -17,6 +17,7 @@ extension UIKit.UIFont {
 }
 public protocol HalleyPayDelegate : AnyObject {
   func halleyPOSCommunicationHasBeenFinished(_ error: HalleyPayFramework.HErrors?)
+  func halleyPOSCommunicationHasBeenCanceled()
 }
 public struct HalleyPay {
   public static func configure(userPhone: Swift.String, appKey: Swift.String, complition: @escaping (Swift.String) -> Swift.Void)

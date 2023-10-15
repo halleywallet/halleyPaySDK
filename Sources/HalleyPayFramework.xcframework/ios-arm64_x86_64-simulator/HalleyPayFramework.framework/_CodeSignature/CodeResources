@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ZqTSmbEnzdiMa5zUhaAaymb6NMo=
+		3iE1Ny3YWvfa1QTWXW2A8yp/DUY=
 		</data>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jFQiXMUKxc2hF+XGEHBP3edBTU4=
+		B5lnplfX6SfV7heYX0gr3DEhRdg=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		HC3HWG2cS5R0ZmF4DJGUYw0dUcg=
+		siqqRt48L/mMKrJzWcpcqXqOF38=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		HC3HWG2cS5R0ZmF4DJGUYw0dUcg=
+		siqqRt48L/mMKrJzWcpcqXqOF38=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JENHmy9vIBJ5/h+ekI7K/QEh50c=
+		dAl7gzIXYnt1bSYBrANLik1iqP8=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jFQiXMUKxc2hF+XGEHBP3edBTU4=
+		B5lnplfX6SfV7heYX0gr3DEhRdg=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		dLEnPoS/hvlfnZmGfHGMamtN+Xw=
+		RN6ML71rsjPBsGZ8eOBMAuiGqiY=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		dLEnPoS/hvlfnZmGfHGMamtN+Xw=
+		RN6ML71rsjPBsGZ8eOBMAuiGqiY=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6qatMPUttZ0qX7HFx4ptXrXyEtQ=
+		vzY1lYnvhuq55eIcIhZpyCNiBgo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J59/DLD5TvkwJChFzctIY+QMSkfFo0qYIKuIfru9K0o=
+			7txdaNy5W4L4Jdfl5DiybeNvtBbIPQzfKycjh1Yt4Vs=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
@@ -122,14 +122,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UX3EGBVQ2dTtuSVCE0/jI2xfaPdfYAHNa+5fsmoo5yo=
+			PvN3r+01KNG3dzgjhVtiI+DbUMGN+uDxA5dXhiwBGD8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			os/c5IWw5uoUc/i5n0xxeZ31/Z85ww6sqCNtcrvus7o=
+			UFS17B5TXYo3gdqITfnWYLx7vmeKkrKXfiUvAjRfBB0=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -143,28 +143,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			os/c5IWw5uoUc/i5n0xxeZ31/Z85ww6sqCNtcrvus7o=
+			UFS17B5TXYo3gdqITfnWYLx7vmeKkrKXfiUvAjRfBB0=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrZqI1LGqN/VC83e4a1n6W2eg7ORBbwfCbDY8jjIujs=
+			pxzYeka0A6sxH8fxwaskDWn5SsphlKliqBk7CEYlaB8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UX3EGBVQ2dTtuSVCE0/jI2xfaPdfYAHNa+5fsmoo5yo=
+			PvN3r+01KNG3dzgjhVtiI+DbUMGN+uDxA5dXhiwBGD8=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KKWCwiA0FOa7Ck3TXD9E/+pLvyMOTHNZfUPlo/E9aN8=
+			o5ck7jR44ozLXbxZDW/sE6pDepSXproe7sMZl+Y+f80=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -178,14 +178,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KKWCwiA0FOa7Ck3TXD9E/+pLvyMOTHNZfUPlo/E9aN8=
+			o5ck7jR44ozLXbxZDW/sE6pDepSXproe7sMZl+Y+f80=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OA0zxEKAJ0qqqtmV13hkLPUthrG5/vAPXIVHu5UHRo=
+			df9u1S4XGFNkkEWx2tnYIt5DixaRE4Lf7T/fPT9ZZ58=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

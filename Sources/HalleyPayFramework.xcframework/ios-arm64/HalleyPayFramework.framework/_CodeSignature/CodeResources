@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ZqTSmbEnzdiMa5zUhaAaymb6NMo=
+		3iE1Ny3YWvfa1QTWXW2A8yp/DUY=
 		</data>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		DlxQNmHKD2dK4qio60hMZrCfswU=
+		VVnYa+ArMZ9p0oG8mOVCa8eVarc=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		yh2yxS/KuppMG1AhW042ciej7/E=
+		fpkVAJxeJSqmUMEHCtkPMOC5fRw=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		yh2yxS/KuppMG1AhW042ciej7/E=
+		fpkVAJxeJSqmUMEHCtkPMOC5fRw=
 		</data>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gwz/54+JnEmJyNga2BgBnT3Tszs=
+		T02GijE4MO9z4DFZ+Rt1n8GhxuI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,7 +81,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J59/DLD5TvkwJChFzctIY+QMSkfFo0qYIKuIfru9K0o=
+			7txdaNy5W4L4Jdfl5DiybeNvtBbIPQzfKycjh1Yt4Vs=
 			</data>
 		</dict>
 		<key>Headers/HalleyPayFramework-Swift.h</key>
@@ -102,14 +102,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cLU1bUGNN/xtVhf5NyKz0EBSRFjSxk2SbqpRiu2q3HY=
+			WzeEaT27om3y2fhJxFWLhlLhoMIIFErjBnd+d6Dwo5Q=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Je/45evKDcRjCJSLbg02KQvZWJdCRh5xz6hazA9KQOg=
+			BKd48cM7OV2axHoF78k7W/idK5++6nOl0d3Uzuf1D94=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -123,14 +123,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Je/45evKDcRjCJSLbg02KQvZWJdCRh5xz6hazA9KQOg=
+			BKd48cM7OV2axHoF78k7W/idK5++6nOl0d3Uzuf1D94=
 			</data>
 		</dict>
 		<key>Modules/HalleyPayFramework.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			au/ncEvmFGQ/ocDGURgCO+laIxGZyvVBJIF9PZXg1JI=
+			yg61G6QZ2OKXfetx1DAxkU9quz70SPPRzEhzkND0mVY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
