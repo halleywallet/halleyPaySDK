@@ -1934,13 +1934,6 @@
       "value": "0.4"
     },
     {
-      "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Halley\/View\/POSConnectionView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 13129,
-      "length": 1,
-      "value": "2"
-    },
-    {
       "filePath": "\/Users\/mohammadtakbiri\/Documents\/Projects\/HalleyPayFramework\/HalleyPayFramework\/Resources\/Core\/UI\/Extensions\/Dictionary+PercentEncoded.swift",
       "kind": "StringLiteral",
       "offset": 250,
